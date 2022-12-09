@@ -8,12 +8,12 @@ import { getStorage } from "firebase/storage";
 import { initializeFirestore } from "firebase/firestore";
 const firebaseConfig = {
   // your config goes hconst firebaseConfig = {
-  apiKey: "AIzaSyA780nrCU8ZSSwQMQfYftOQ8y4p_bXqoU4",
+  apiKey: "AIzaSyA78******************8",
   authDomain: "ether-af94c.firebaseapp.com",
   projectId: "ether-af94c",
   storageBucket: "ether-af94c.appspot.com",
   messagingSenderId: "135994131115",
-  appId: "1:135994131115:web:c415d2c8870c0d8a646dee",
+  appId: "1:135994131115:we******************88",
   measurementId: "G-WWPY0YF1ZK",
 };
 
